@@ -1,0 +1,626 @@
+{
+  "mcq": [
+    {
+      "id": "MCQ_RENAL_001",
+      "system": "Renal",
+      "question": "Which of the following is the most common cause of nephrotic syndrome in children?",
+      "options": [
+        "Minimal change disease",
+        "Focal segmental glomerulosclerosis",
+        "Membranous nephropathy",
+        "IgA nephropathy",
+        "Diabetic nephropathy"
+      ],
+      "correct_answer": "A",
+      "explanation": "Minimal change disease accounts for 70-90% of nephrotic syndrome cases in children. It is characterized by podocyte foot process effacement visible only on electron microscopy, with normal light microscopy and negative immunofluorescence."
+    },
+    {
+      "id": "MCQ_RENAL_002",
+      "system": "Renal",
+      "question": "Which glomerular disease is characterized by 'spike and dome' appearance on silver stain?",
+      "options": [
+        "Minimal change disease",
+        "Membranous nephropathy",
+        "Acute proliferative glomerulonephritis",
+        "Crescentic glomerulonephritis",
+        "Focal segmental glomerulosclerosis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Membranous nephropathy shows subepithelial immune complex deposits that create a 'spike and dome' pattern on silver stain. The basement membrane projects between the deposits (spikes), while the deposits appear as domes."
+    },
+    {
+      "id": "MCQ_RENAL_003",
+      "system": "Renal",
+      "question": "What is the most common cause of acute renal failure in hospitalized patients?",
+      "options": [
+        "Prerenal azotemia",
+        "Acute tubular necrosis",
+        "Acute interstitial nephritis",
+        "Urinary tract obstruction",
+        "Glomerulonephritis"
+      ],
+      "correct_answer": "B",
+      "explanation": "Acute tubular necrosis (ATN) is the most common cause of acute renal failure in hospitalized patients. It can result from ischemia (most common) or nephrotoxins. Histologically, it shows tubular epithelial cell necrosis and muddy brown casts in urine."
+    },
+    {
+      "id": "MCQ_RENAL_004",
+      "system": "Renal",
+      "question": "Which type of renal cell carcinoma is associated with von Hippel-Lindau disease?",
+      "options": [
+        "Papillary RCC",
+        "Chromophobe RCC",
+        "Clear cell RCC",
+        "Collecting duct carcinoma",
+        "Oncocytoma"
+      ],
+      "correct_answer": "C",
+      "explanation": "Clear cell renal cell carcinoma is associated with von Hippel-Lindau (VHL) disease. VHL gene mutations lead to accumulation of HIF (hypoxia-inducible factor), promoting angiogenesis and tumor growth. Clear cells contain glycogen and lipids."
+    },
+    {
+      "id": "MCQ_RENAL_005",
+      "system": "Renal",
+      "question": "Which finding is characteristic of diabetic nephropathy?",
+      "options": [
+        "Wire-loop lesions",
+        "Kimmelstiel-Wilson nodules",
+        "Crescents in Bowman's space",
+        "Tram-track appearance",
+        "Spike and dome pattern"
+      ],
+      "correct_answer": "B",
+      "explanation": "Kimmelstiel-Wilson nodules are pathognomonic for diabetic nephropathy. These are nodular glomerulosclerosis lesions composed of mesangial matrix expansion. Other features include diffuse glomerulosclerosis, arteriolar hyalinosis, and tubular basement membrane thickening."
+    },
+    {
+      "id": "MCQ_RENAL_006",
+      "system": "Renal",
+      "question": "What is the most common site of origin for transitional cell carcinoma of the urinary tract?",
+      "options": [
+        "Renal pelvis",
+        "Ureter",
+        "Bladder",
+        "Urethra",
+        "Collecting duct"
+      ],
+      "correct_answer": "C",
+      "explanation": "The bladder is the most common site for urothelial (transitional cell) carcinoma, accounting for about 90% of cases. Risk factors include smoking, occupational exposure to aromatic amines, and chronic inflammation. It often presents with painless hematuria."
+    },
+    {
+      "id": "MCQ_RENAL_007",
+      "system": "Renal",
+      "question": "Which immunofluorescence pattern is seen in IgA nephropathy?",
+      "options": [
+        "Linear IgG along basement membrane",
+        "Mesangial IgA deposits",
+        "Granular IgG and C3 along basement membrane",
+        "No immunofluorescence",
+        "Linear C3 along basement membrane"
+      ],
+      "correct_answer": "B",
+      "explanation": "IgA nephropathy (Berger disease) shows mesangial IgA deposits on immunofluorescence. It is the most common glomerulonephritis worldwide. Patients typically present with episodic gross hematuria following upper respiratory infections."
+    },
+    {
+      "id": "MCQ_RENAL_008",
+      "system": "Renal",
+      "question": "Which of the following is associated with 'flea-bitten kidney' appearance?",
+      "options": [
+        "Chronic pyelonephritis",
+        "Acute tubular necrosis",
+        "Malignant hypertension",
+        "Diabetic nephropathy",
+        "Polycystic kidney disease"
+      ],
+      "correct_answer": "C",
+      "explanation": "Malignant hypertension causes acute vascular injury leading to petechial hemorrhages on the kidney surface, creating a 'flea-bitten' appearance. Histologically, it shows acute arterial necrosis, red blood cell extravasation, and acute tubular necrosis."
+    },
+    {
+      "id": "MCQ_RENAL_009",
+      "system": "Renal",
+      "question": "What is the characteristic finding in acute poststreptococcal glomerulonephritis on electron microscopy?",
+      "options": [
+        "Foot process effacement",
+        "Subepithelial humps",
+        "Mesangial deposits",
+        "Subendothelial deposits",
+        "Intramembranous deposits"
+      ],
+      "correct_answer": "B",
+      "explanation": "Acute poststreptococcal glomerulonephritis shows subepithelial 'humps' on electron microscopy, representing immune complex deposits. Light microscopy shows hypercellular glomeruli, and immunofluorescence reveals granular deposits of IgG and C3 in a 'starry sky' pattern."
+    },
+    {
+      "id": "MCQ_RENAL_010",
+      "system": "Renal",
+      "question": "Which condition is characterized by 'thyroidization' of the kidney?",
+      "options": [
+        "Acute pyelonephritis",
+        "Chronic pyelonephritis",
+        "Acute tubular necrosis",
+        "Glomerulonephritis",
+        "Renal infarction"
+      ],
+      "correct_answer": "B",
+      "explanation": "Chronic pyelonephritis shows 'thyroidization' - tubules filled with eosinophilic proteinaceous material resembling thyroid follicles. Other features include cortical scarring, blunted calyces, chronic inflammation, and tubular atrophy with interstitial fibrosis."
+    },
+    {
+      "id": "MCQ_REPRO_001",
+      "system": "Reproductive",
+      "question": "Which HPV types are most commonly associated with cervical squamous cell carcinoma?",
+      "options": [
+        "HPV 6 and 11",
+        "HPV 16 and 18",
+        "HPV 31 and 33",
+        "HPV 42 and 43",
+        "HPV 1 and 2"
+      ],
+      "correct_answer": "B",
+      "explanation": "HPV 16 and 18 are high-risk types responsible for approximately 70% of cervical cancers. They produce E6 and E7 oncoproteins that inactivate p53 and Rb tumor suppressors respectively. HPV 6 and 11 are low-risk types causing condylomas."
+    },
+    {
+      "id": "MCQ_REPRO_002",
+      "system": "Reproductive",
+      "question": "What is the most common type of endometrial carcinoma?",
+      "options": [
+        "Serous carcinoma",
+        "Clear cell carcinoma",
+        "Endometrioid adenocarcinoma",
+        "Mucinous carcinoma",
+        "Squamous cell carcinoma"
+      ],
+      "correct_answer": "C",
+      "explanation": "Endometrioid adenocarcinoma accounts for 75-80% of endometrial cancers. It is Type I, estrogen-related, associated with endometrial hyperplasia, and has a better prognosis. It shows glandular architecture resembling normal endometrium."
+    },
+    {
+      "id": "MCQ_REPRO_003",
+      "system": "Reproductive",
+      "question": "Which ovarian tumor is most commonly bilateral?",
+      "options": [
+        "Mature cystic teratoma",
+        "Serous cystadenoma",
+        "Mucinous cystadenoma",
+        "Granulosa cell tumor",
+        "Dysgerminoma"
+      ],
+      "correct_answer": "B",
+      "explanation": "Serous cystadenoma is bilateral in 20-30% of cases, more than any other benign ovarian tumor. Mucinous cystadenoma is bilateral in only 5% of cases. Serous tumors line cysts with ciliated columnar epithelium resembling fallopian tube."
+    },
+    {
+      "id": "MCQ_REPRO_004",
+      "system": "Reproductive",
+      "question": "What is the most common malignant ovarian germ cell tumor?",
+      "options": [
+        "Mature teratoma",
+        "Dysgerminoma",
+        "Yolk sac tumor",
+        "Choriocarcinoma",
+        "Embryonal carcinoma"
+      ],
+      "correct_answer": "B",
+      "explanation": "Dysgerminoma is the most common malignant germ cell tumor, equivalent to seminoma in males. It occurs in young women, is radiosensitive, and has excellent prognosis. Histologically shows sheets of uniform cells with clear cytoplasm and lymphocytic infiltrate."
+    },
+    {
+      "id": "MCQ_REPRO_005",
+      "system": "Reproductive",
+      "question": "Which marker is elevated in yolk sac tumor?",
+      "options": [
+        "CA-125",
+        "CEA",
+        "Alpha-fetoprotein",
+        "Beta-hCG",
+        "CA 19-9"
+      ],
+      "correct_answer": "C",
+      "explanation": "Yolk sac tumor (endodermal sinus tumor) produces alpha-fetoprotein (AFP). It is the second most common malignant germ cell tumor in children and young women. Histologically shows Schiller-Duval bodies (glomeruloid structures) and hyaline globules."
+    },
+    {
+      "id": "MCQ_REPRO_006",
+      "system": "Reproductive",
+      "question": "What is the precursor lesion for cervical squamous cell carcinoma?",
+      "options": [
+        "Cervical ectropion",
+        "Nabothian cyst",
+        "Cervical intraepithelial neoplasia (CIN)",
+        "Endocervical polyp",
+        "Microglandular hyperplasia"
+      ],
+      "correct_answer": "C",
+      "explanation": "Cervical intraepithelial neoplasia (CIN) is the precursor to invasive squamous cell carcinoma. CIN is graded I-III based on extent of epithelial involvement. CIN III (carcinoma in situ) involves full thickness but doesn't breach basement membrane. HPV infection is the primary cause."
+    },
+    {
+      "id": "MCQ_REPRO_007",
+      "system": "Reproductive",
+      "question": "Which endometrial change is associated with unopposed estrogen?",
+      "options": [
+        "Secretory endometrium",
+        "Atrophic endometrium",
+        "Endometrial hyperplasia",
+        "Decidualization",
+        "Arias-Stella reaction"
+      ],
+      "correct_answer": "C",
+      "explanation": "Unopposed estrogen (without progesterone) causes endometrial hyperplasia. Risk factors include obesity, PCOS, estrogen-producing tumors, and estrogen replacement therapy without progestin. It can progress to endometrioid adenocarcinoma, especially if atypical hyperplasia."
+    },
+    {
+      "id": "MCQ_REPRO_008",
+      "system": "Reproductive",
+      "question": "What is the most common benign ovarian tumor?",
+      "options": [
+        "Serous cystadenoma",
+        "Mucinous cystadenoma",
+        "Mature cystic teratoma (dermoid cyst)",
+        "Fibroma",
+        "Brenner tumor"
+      ],
+      "correct_answer": "C",
+      "explanation": "Mature cystic teratoma (dermoid cyst) is the most common ovarian tumor in young women. It contains mature tissues from all three germ layers - commonly hair, sebaceous material, teeth, and bone. It has 1-2% risk of malignant transformation to squamous cell carcinoma."
+    },
+    {
+      "id": "MCQ_REPRO_009",
+      "system": "Reproductive",
+      "question": "Which ovarian tumor is associated with Meigs syndrome?",
+      "options": [
+        "Serous cystadenoma",
+        "Granulosa cell tumor",
+        "Fibroma",
+        "Dysgerminoma",
+        "Mucinous cystadenoma"
+      ],
+      "correct_answer": "C",
+      "explanation": "Ovarian fibroma is associated with Meigs syndrome - triad of ovarian fibroma, ascites, and pleural effusion. The effusions resolve after tumor removal. Fibromas are benign sex cord-stromal tumors composed of spindle cells producing collagen."
+    },
+    {
+      "id": "MCQ_REPRO_010",
+      "system": "Reproductive",
+      "question": "What is the most common histologic type of cervical cancer?",
+      "options": [
+        "Adenocarcinoma",
+        "Squamous cell carcinoma",
+        "Adenosquamous carcinoma",
+        "Small cell carcinoma",
+        "Clear cell carcinoma"
+      ],
+      "correct_answer": "B",
+      "explanation": "Squamous cell carcinoma accounts for 80-85% of cervical cancers. It arises from the transformation zone where squamous and columnar epithelium meet. Adenocarcinoma accounts for 10-15% and arises from endocervical glands."
+    },
+    {
+      "id": "MCQ_REPRO_011",
+      "system": "Reproductive",
+      "question": "Which ovarian tumor produces estrogen and can cause precocious puberty in children?",
+      "options": [
+        "Sertoli-Leydig cell tumor",
+        "Granulosa cell tumor",
+        "Dysgerminoma",
+        "Fibroma",
+        "Brenner tumor"
+      ],
+      "correct_answer": "B",
+      "explanation": "Granulosa cell tumor is an estrogen-producing sex cord-stromal tumor. In children, it causes precocious puberty; in adults, it causes endometrial hyperplasia and postmenopausal bleeding. Histologically shows Call-Exner bodies (follicle-like structures). Inhibin is a marker."
+    },
+    {
+      "id": "MCQ_REPRO_012",
+      "system": "Reproductive",
+      "question": "What is the most common cause of vaginal adenocarcinoma in young women?",
+      "options": [
+        "HPV infection",
+        "In utero DES exposure",
+        "Chronic inflammation",
+        "Radiation therapy",
+        "Smoking"
+      ],
+      "correct_answer": "B",
+      "explanation": "Clear cell adenocarcinoma of the vagina in young women is associated with in utero diethylstilbestrol (DES) exposure. DES was used to prevent miscarriage (1940s-1970s). It causes vaginal adenosis (glandular epithelium) which can transform to clear cell carcinoma."
+    },
+    {
+      "id": "MCQ_REPRO_013",
+      "system": "Reproductive",
+      "question": "Which prostatic zone is most commonly affected by adenocarcinoma?",
+      "options": [
+        "Central zone",
+        "Transition zone",
+        "Peripheral zone",
+        "Anterior fibromuscular stroma",
+        "Periurethral zone"
+      ],
+      "correct_answer": "C",
+      "explanation": "Peripheral zone is the site of 70% of prostatic adenocarcinomas. This is why digital rectal examination can detect posterior tumors. Benign prostatic hyperplasia (BPH) occurs in the transition zone. Prostate cancer is graded using Gleason score."
+    },
+    {
+      "id": "MCQ_REPRO_014",
+      "system": "Reproductive",
+      "question": "What is the tumor marker for prostatic adenocarcinoma?",
+      "options": [
+        "CEA",
+        "CA-125",
+        "PSA (Prostate-specific antigen)",
+        "AFP",
+        "Beta-hCG"
+      ],
+      "correct_answer": "C",
+      "explanation": "PSA (prostate-specific antigen) is elevated in prostatic adenocarcinoma, though it's not specific (also elevated in BPH and prostatitis). Prostatic adenocarcinoma shows loss of basal cell layer (unlike BPH), nuclear atypia, and infiltrative growth. Gleason grading predicts prognosis."
+    },
+    {
+      "id": "MCQ_REPRO_015",
+      "system": "Reproductive",
+      "question": "Which endometrial carcinoma type is NOT estrogen-related and has poor prognosis?",
+      "options": [
+        "Endometrioid adenocarcinoma",
+        "Mucinous carcinoma",
+        "Serous carcinoma",
+        "Secretory carcinoma",
+        "Villoglandular carcinoma"
+      ],
+      "correct_answer": "C",
+      "explanation": "Serous carcinoma is Type II endometrial cancer - not estrogen-related, occurs in older/atrophic endometrium, has p53 mutations, and poor prognosis. It shows papillary architecture with high-grade nuclei and psammoma bodies. Spreads early via lymphatics and peritoneum."
+    },
+    {
+      "id": "MCQ_REPRO_016",
+      "system": "Reproductive",
+      "question": "What is the most common site for endometriosis?",
+      "options": [
+        "Uterine wall",
+        "Ovary",
+        "Fallopian tube",
+        "Bladder",
+        "Rectovaginal septum"
+      ],
+      "correct_answer": "B",
+      "explanation": "Ovaries are the most common site for endometriosis, forming 'chocolate cysts' (endometriomas) filled with old blood. Endometriosis is ectopic endometrial tissue that responds to hormones, causing cyclic bleeding, pain, and infertility. Other common sites include pelvic peritoneum and uterosacral ligaments."
+    },
+    {
+      "id": "MCQ_REPRO_017",
+      "system": "Reproductive",
+      "question": "Which ovarian tumor can cause pseudomyxoma peritonei if ruptured?",
+      "options": [
+        "Serous cystadenoma",
+        "Mucinous cystadenoma",
+        "Mature teratoma",
+        "Dysgerminoma",
+        "Granulosa cell tumor"
+      ],
+      "correct_answer": "B",
+      "explanation": "Mucinous tumors (especially mucinous cystadenocarcinoma) can rupture and cause pseudomyxoma peritonei - gelatinous ascites from mucin-producing cells implanting on peritoneal surfaces. Mucinous tumors are large, multiloculated, filled with mucin, and lined by mucin-secreting columnar epithelium."
+    },
+    {
+      "id": "MCQ_REPRO_018",
+      "system": "Reproductive",
+      "question": "What is the characteristic histologic finding in complete hydatidiform mole?",
+      "options": [
+        "Fetal parts present",
+        "46,XX (all paternal)",
+        "Triploid karyotype",
+        "Focal trophoblastic proliferation",
+        "Normal placental villi"
+      ],
+      "correct_answer": "B",
+      "explanation": "Complete hydatidiform mole has 46,XX karyotype with all chromosomes of paternal origin (androgenetic). It shows diffuse hydropic villi, diffuse trophoblastic proliferation, no fetal parts, and high hCG. Has 2-3% risk of choriocarcinoma. Partial mole is triploid with fetal parts."
+    },
+    {
+      "id": "MCQ_REPRO_019",
+      "system": "Reproductive",
+      "question": "Which cervical lesion is characterized by koilocytes?",
+      "options": [
+        "Cervical ectropion",
+        "HPV infection/CIN",
+        "Endocervical polyp",
+        "Nabothian cyst",
+        "Microglandular hyperplasia"
+      ],
+      "correct_answer": "B",
+      "explanation": "Koilocytes (cells with perinuclear halos and nuclear atypia) are pathognomonic for HPV infection and are seen in CIN. They represent cytopathic effect of HPV. Other features include nuclear enlargement, hyperchromasia, and binucleation."
+    },
+    {
+      "id": "MCQ_REPRO_020",
+      "system": "Reproductive",
+      "question": "Which ovarian tumor is associated with elevated CA-125?",
+      "options": [
+        "Mature teratoma",
+        "Dysgerminoma",
+        "Serous cystadenocarcinoma",
+        "Granulosa cell tumor",
+        "Fibroma"
+      ],
+      "correct_answer": "C",
+      "explanation": "CA-125 is elevated in epithelial ovarian cancers, especially serous cystadenocarcinoma. It's used for monitoring treatment response and detecting recurrence. However, it's not specific - can be elevated in endometriosis, pregnancy, and other conditions. Serous cystadenocarcinoma often presents with psammoma bodies."
+    }
+  ],
+  "sba": [
+    {
+      "id": "SBA_RENAL_001",
+      "system": "Renal",
+      "question": "A 7-year-old boy presents with periorbital edema, frothy urine, and generalized edema. Laboratory tests show proteinuria (>3.5 g/day), hypoalbuminemia, and hyperlipidemia. Renal biopsy shows normal glomeruli on light microscopy. Immunofluorescence is negative. What is the most likely diagnosis?",
+      "options": [
+        "Focal segmental glomerulosclerosis",
+        "Minimal change disease",
+        "Membranous nephropathy",
+        "IgA nephropathy",
+        "Acute poststreptococcal glomerulonephritis"
+      ],
+      "correct_answer": "B",
+      "explanation_correct": "This is classic minimal change disease (MCD), the most common cause of nephrotic syndrome in children. The triad of normal light microscopy, negative immunofluorescence, and podocyte foot process effacement on electron microscopy is diagnostic. MCD responds well to corticosteroids.",
+      "explanation_incorrect": "FSGS would show segmental sclerosis on light microscopy. Membranous nephropathy shows subepithelial deposits and is rare in children. IgA nephropathy presents with nephritic syndrome (hematuria). PSGN shows hypercellular glomeruli with immune deposits."
+    },
+    {
+      "id": "SBA_RENAL_002",
+      "system": "Renal",
+      "question": "A 55-year-old man with long-standing diabetes mellitus develops progressive proteinuria and declining renal function. Renal biopsy shows thickening of glomerular basement membrane, mesangial expansion with nodular deposits, and arteriolar hyalinosis. What is the pathognomonic finding?",
+      "options": [
+        "Wire-loop lesions",
+        "Kimmelstiel-Wilson nodules",
+        "Crescents",
+        "Spike and dome pattern",
+        "Subepithelial humps"
+      ],
+      "correct_answer": "B",
+      "explanation_correct": "Kimmelstiel-Wilson nodules (nodular glomerulosclerosis) are pathognomonic for diabetic nephropathy. These are acellular nodular deposits of mesangial matrix. Diabetic nephropathy also shows diffuse GBM thickening, arteriolar hyalinosis, and tubular basement membrane thickening.",
+      "explanation_incorrect": "Wire-loop lesions are seen in lupus nephritis. Crescents indicate rapidly progressive glomerulonephritis. Spike and dome pattern is characteristic of membranous nephropathy. Subepithelial humps are seen in poststreptococcal glomerulonephritis."
+    },
+    {
+      "id": "SBA_RENAL_003",
+      "system": "Renal",
+      "question": "A 25-year-old man presents with episodic gross hematuria occurring 1-2 days after upper respiratory infections. Urinalysis shows RBC casts and dysmorphic RBCs. Renal biopsy shows mesangial proliferation on light microscopy. Immunofluorescence reveals mesangial IgA and C3 deposits. What is the diagnosis?",
+      "options": [
+        "Acute poststreptococcal glomerulonephritis",
+        "IgA nephropathy (Berger disease)",
+        "Alport syndrome",
+        "Thin basement membrane disease",
+        "Henoch-Schönlein purpura"
+      ],
+      "correct_answer": "B",
+      "explanation_correct": "IgA nephropathy (Berger disease) is characterized by episodic gross hematuria following mucosal infections (synpharyngitic hematuria). Mesangial IgA deposits on immunofluorescence are diagnostic. It's the most common glomerulonephritis worldwide and can progress to chronic renal failure.",
+      "explanation_incorrect": "PSGN occurs 1-3 weeks after infection (not 1-2 days). Alport syndrome shows GBM splitting and hearing loss. Thin basement membrane disease is benign with isolated hematuria. HSP has similar pathology but presents with systemic vasculitis (purpura, arthritis, GI symptoms)."
+    },
+    {
+      "id": "SBA_REPRO_001",
+      "system": "Reproductive",
+      "question": "A 32-year-old woman presents with abnormal Pap smear showing high-grade squamous intraepithelial lesion (HSIL). Colposcopy-guided biopsy shows full-thickness dysplasia of the squamous epithelium without basement membrane invasion. What is the diagnosis?",
+      "options": [
+        "CIN I",
+        "CIN II",
+        "CIN III (carcinoma in situ)",
+        "Invasive squamous cell carcinoma",
+        "Cervical ectropion"
+      ],
+      "correct_answer": "C",
+      "explanation_correct": "CIN III (carcinoma in situ) shows full-thickness dysplasia without basement membrane invasion. It corresponds to HSIL on cytology. CIN III has high risk of progression to invasive carcinoma if untreated. Treatment is excision (LEEP, cone biopsy) to prevent progression.",
+      "explanation_incorrect": "CIN I involves lower 1/3 of epithelium. CIN II involves lower 2/3. Invasive carcinoma breaches basement membrane. Cervical ectropion is benign columnar epithelium on ectocervix, not dysplasia."
+    },
+    {
+      "id": "SBA_REPRO_002",
+      "system": "Reproductive",
+      "question": "A 58-year-old postmenopausal woman presents with vaginal bleeding. Endometrial biopsy shows glands with complex architecture, marked cytologic atypia, and papillary structures with psammoma bodies. P53 immunostaining is strongly positive. What is the diagnosis?",
+      "options": [
+        "Endometrioid adenocarcinoma",
+        "Serous carcinoma",
+        "Endometrial hyperplasia with atypia",
+        "Clear cell carcinoma",
+        "Carcinosarcoma"
+      ],
+      "correct_answer": "B",
+      "explanation_correct": "Serous carcinoma (Type II endometrial cancer) shows papillary architecture, psammoma bodies, high-grade nuclei, and p53 mutations. It's not estrogen-related, occurs in atrophic endometrium, and has poor prognosis with early spread. It accounts for 10% of endometrial cancers but 40% of deaths.",
+      "explanation_incorrect": "Endometrioid carcinoma is Type I (estrogen-related) with better prognosis. Hyperplasia with atypia is a precursor, not invasive cancer. Clear cell carcinoma has clear/hobnail cells. Carcinosarcoma has both carcinomatous and sarcomatous components."
+    },
+    {
+      "id": "SBA_REPRO_003",
+      "system": "Reproductive",
+      "question": "A 22-year-old woman presents with a large ovarian mass. Surgical pathology shows a tumor composed of uniform cells with clear cytoplasm, distinct cell borders, and lymphocytic infiltrate. The tumor is radiosensitive. Serum LDH is elevated. What is the diagnosis?",
+      "options": [
+        "Yolk sac tumor",
+        "Dysgerminoma",
+        "Granulosa cell tumor",
+        "Serous cystadenocarcinoma",
+        "Mature teratoma"
+      ],
+      "correct_answer": "B",
+      "explanation_correct": "Dysgerminoma is the most common malignant germ cell tumor, equivalent to seminoma. Key features: uniform cells with clear cytoplasm, lymphocytic infiltrate, radiosensitivity, elevated LDH, and excellent prognosis. It occurs in young women and is often unilateral.",
+      "explanation_incorrect": "Yolk sac tumor produces AFP and shows Schiller-Duval bodies. Granulosa cell tumor produces estrogen and shows Call-Exner bodies. Serous cystadenocarcinoma is epithelial origin. Mature teratoma is benign with mature tissues from all germ layers."
+    }
+  ],
+  "problems": [
+    {
+      "id": "PROB_RENAL_001",
+      "system": "Renal",
+      "question": "A 45-year-old woman with SLE presents with worsening proteinuria and hematuria. Renal biopsy shows diffuse proliferative glomerulonephritis with subendothelial immune deposits creating 'wire-loop' lesions. Immunofluorescence shows 'full house' pattern (IgG, IgM, IgA, C3, C1q). What is the WHO classification and what is the pathogenesis?",
+      "answer": "This is WHO Class IV lupus nephritis (diffuse proliferative GN), the most severe form. Pathogenesis involves immune complex deposition (DNA-anti-DNA antibodies) in subendothelial location, activating complement and causing inflammation. The 'full house' IF pattern is characteristic of lupus. Wire-loop lesions are thickened capillary walls from subendothelial deposits. Treatment requires aggressive immunosuppression (cyclophosphamide or mycophenolate + steroids) to prevent progression to ESRD.",
+      "key_concepts": [
+        "Class IV lupus nephritis - most severe",
+        "Subendothelial immune complex deposits",
+        "Wire-loop lesions on light microscopy",
+        "Full house immunofluorescence pattern",
+        "Requires aggressive immunosuppression"
+      ]
+    },
+    {
+      "id": "PROB_RENAL_002",
+      "system": "Renal",
+      "question": "A 68-year-old man presents with painless hematuria. Cystoscopy reveals a papillary mass in the bladder. Biopsy shows malignant cells invading the lamina propria but not the muscularis propria. The tumor is positive for CK7 and CK20. What is the diagnosis, staging, and prognosis?",
+      "answer": "Diagnosis: Urothelial (transitional cell) carcinoma of the bladder. Staging: T1 (invasion of lamina propria but not muscularis propria). CK7+/CK20+ is typical for urothelial origin. Prognosis: T1 tumors have good prognosis with transurethral resection and intravesical BCG therapy. However, they have high recurrence rate (50-70%) and risk of progression. Muscle-invasive disease (T2 or higher) requires radical cystectomy. Risk factors include smoking, aromatic amines, and chronic inflammation. Field cancerization means entire urothelium is at risk.",
+      "key_concepts": [
+        "Urothelial carcinoma - most common bladder cancer",
+        "T1 = lamina propria invasion",
+        "CK7+/CK20+ immunoprofile",
+        "High recurrence rate",
+        "Requires surveillance cystoscopy"
+      ]
+    },
+    {
+      "id": "PROB_REPRO_001",
+      "system": "Reproductive",
+      "question": "A 28-year-old woman presents with pelvic pain and infertility. Laparoscopy reveals multiple hemorrhagic lesions on the ovaries and peritoneum. Biopsy shows endometrial glands and stroma with hemosiderin-laden macrophages. What is the diagnosis, pathogenesis, and complications?",
+      "answer": "Diagnosis: Endometriosis. Pathogenesis: Three theories - (1) Retrograde menstruation (Sampson theory) - most accepted, (2) Coelomic metaplasia, (3) Lymphatic/vascular dissemination. Ectopic endometrial tissue responds to hormones causing cyclic bleeding, inflammation, and fibrosis. Complications: (1) Infertility from adhesions and inflammation, (2) Chronic pelvic pain, (3) Chocolate cysts (endometriomas) in ovaries, (4) Rare malignant transformation to endometrioid or clear cell carcinoma. Treatment: Hormonal suppression, surgery, or both depending on severity and fertility desires.",
+      "key_concepts": [
+        "Ectopic endometrial tissue outside uterus",
+        "Retrograde menstruation theory",
+        "Chocolate cysts in ovaries",
+        "Causes infertility and pain",
+        "Can transform to carcinoma"
+      ]
+    },
+    {
+      "id": "PROB_REPRO_002",
+      "system": "Reproductive",
+      "question": "A 65-year-old man has elevated PSA (25 ng/mL). Prostate biopsy shows infiltrative glands with loss of basal cell layer. Gleason score is 4+3=7. What does this mean and what is the prognosis?",
+      "answer": "Diagnosis: Prostatic adenocarcinoma, Gleason score 7 (4+3). Gleason grading: Pattern 4 (poorly formed glands, cribriform, fused) is the predominant pattern, Pattern 3 (well-formed separate glands) is secondary. Score 7 is intermediate grade. Gleason 4+3 has worse prognosis than 3+4 because predominant pattern matters. Loss of basal cell layer (p63/CK5/6 negative) distinguishes cancer from BPH. Elevated PSA and Gleason 7 indicate need for staging (bone scan, CT/MRI). Treatment options: radical prostatectomy, radiation, or active surveillance depending on stage, age, and comorbidities. Prognosis: Intermediate risk, 5-year survival >90% if localized.",
+      "key_concepts": [
+        "Gleason grading: sum of two most common patterns",
+        "4+3 worse than 3+4 (predominant pattern matters)",
+        "Loss of basal cells distinguishes from BPH",
+        "PSA for screening and monitoring",
+        "Treatment depends on stage and grade"
+      ]
+    }
+  ],
+  "shortNotes": [
+    {
+      "id": "NOTE_RENAL_001",
+      "system": "Renal",
+      "title": "Nephrotic vs Nephritic Syndrome",
+      "content": "**NEPHROTIC SYNDROME (Proteinuria >3.5g/day)**\n\n**Clinical Features:**\n- Massive proteinuria (>3.5 g/day)\n- Hypoalbuminemia (<3 g/dL)\n- Generalized edema\n- Hyperlipidemia and lipiduria\n- Hypercoagulable state\n\n**Causes:**\n- Children: Minimal change disease (70-90%)\n- Adults: Membranous nephropathy, FSGS, diabetic nephropathy\n- Secondary: Diabetes, amyloidosis, SLE\n\n**NEPHRITIC SYNDROME (Hematuria + RBC casts)**\n\n**Clinical Features:**\n- Hematuria with RBC casts\n- Oliguria\n- Hypertension\n- Mild proteinuria (<3.5 g/day)\n- Azotemia\n\n**Causes:**\n- Acute PSGN (poststreptococcal GN)\n- IgA nephropathy\n- Rapidly progressive GN\n- Lupus nephritis\n\n**Key Distinction:** Nephrotic = protein loss; Nephritic = inflammation with hematuria"
+    },
+    {
+      "id": "NOTE_RENAL_002",
+      "system": "Renal",
+      "title": "Glomerular Diseases - Quick Reference",
+      "content": "**MINIMAL CHANGE DISEASE**\n- Most common in children\n- Normal LM, negative IF, foot process effacement on EM\n- Responds to steroids\n\n**FOCAL SEGMENTAL GLOMERULOSCLEROSIS (FSGS)**\n- Segmental sclerosis on LM\n- Associated with HIV, heroin, obesity\n- Poor response to steroids\n\n**MEMBRANOUS NEPHROPATHY**\n- Most common primary nephrotic in adults\n- Subepithelial deposits, spike and dome on silver stain\n- Associated with HBV, SLE, solid tumors\n\n**IgA NEPHROPATHY (Berger)**\n- Most common GN worldwide\n- Mesangial IgA deposits\n- Synpharyngitic hematuria (1-2 days after URI)\n\n**POSTSTREPTOCOCCAL GN**\n- 1-3 weeks after pharyngitis/skin infection\n- Subepithelial humps on EM\n- Starry sky IF (granular IgG, C3)\n\n**DIABETIC NEPHROPATHY**\n- Kimmelstiel-Wilson nodules (pathognomonic)\n- GBM thickening, arteriolar hyalinosis"
+    },
+    {
+      "id": "NOTE_RENAL_003",
+      "system": "Renal",
+      "title": "Renal Cell Carcinoma Types",
+      "content": "**CLEAR CELL RCC (70-80%)**\n- Most common type\n- Associated with VHL gene (chromosome 3p deletion)\n- Clear cytoplasm (glycogen, lipids)\n- Highly vascular\n- Classic triad: hematuria, flank pain, palpable mass (rare)\n\n**PAPILLARY RCC (10-15%)**\n- Papillary architecture\n- Foamy macrophages in cores\n- Better prognosis than clear cell\n\n**CHROMOPHOBE RCC (5%)**\n- Pale cytoplasm with prominent cell membranes\n- Derived from intercalated cells\n- Best prognosis\n\n**COLLECTING DUCT CARCINOMA (<1%)**\n- Arises from medulla\n- Aggressive, poor prognosis\n\n**Key Features:**\n- All RCCs can cause paraneoplastic syndromes: EPO (polycythemia), PTHrP (hypercalcemia), renin (hypertension)\n- Spread: renal vein → IVC → right heart\n- Cannonball metastases to lungs"
+    },
+    {
+      "id": "NOTE_RENAL_004",
+      "system": "Renal",
+      "title": "Acute Tubular Necrosis (ATN)",
+      "content": "**DEFINITION:** Most common cause of acute renal failure in hospitalized patients\n\n**TYPES:**\n\n**1. ISCHEMIC ATN (Most common)**\n- Causes: Shock, sepsis, surgery, severe dehydration\n- Affects straight segments (S3 of proximal tubule, thick ascending limb)\n- Patchy necrosis\n\n**2. NEPHROTOXIC ATN**\n- Causes: Aminoglycosides, contrast dye, myoglobin, hemoglobin, heavy metals\n- Affects proximal tubule primarily\n- More diffuse necrosis\n\n**PHASES:**\n1. Initiation (hours-days): Injury occurs\n2. Maintenance (1-2 weeks): Oliguria, uremia\n3. Recovery (2-3 weeks): Polyuria, gradual improvement\n\n**LABORATORY FINDINGS:**\n- Muddy brown casts in urine (pathognomonic)\n- FENa >2% (vs <1% in prerenal)\n- Elevated BUN and creatinine\n\n**PROGNOSIS:** Usually reversible with supportive care; mortality depends on underlying cause"
+    },
+    {
+      "id": "NOTE_REPRO_001",
+      "system": "Reproductive",
+      "title": "Cervical Pathology - HPV and CIN",
+      "content": "**HPV INFECTION**\n\n**High-Risk Types:** 16, 18, 31, 33, 45 → Cancer\n- HPV 16 & 18 cause ~70% of cervical cancers\n- Produce E6 (inactivates p53) and E7 (inactivates Rb)\n\n**Low-Risk Types:** 6, 11 → Condylomas (genital warts)\n\n**CERVICAL INTRAEPITHELIAL NEOPLASIA (CIN)**\n\n**CIN I (LSIL):**\n- Lower 1/3 of epithelium involved\n- Koilocytes (perinuclear halo, nuclear atypia)\n- 60% regress, 10% progress\n\n**CIN II (HSIL):**\n- Lower 2/3 involved\n- Moderate dysplasia\n\n**CIN III (HSIL/Carcinoma in situ):**\n- Full thickness dysplasia\n- No basement membrane invasion\n- High risk of progression\n\n**INVASIVE SQUAMOUS CELL CARCINOMA:**\n- Breaches basement membrane\n- 80-85% of cervical cancers\n\n**SCREENING:**\n- Pap smear: cytology\n- HPV testing: molecular\n- Colposcopy with biopsy for abnormal results\n\n**PREVENTION:** HPV vaccine (Gardasil) - targets types 6, 11, 16, 18"
+    },
+    {
+      "id": "NOTE_REPRO_002",
+      "system": "Reproductive",
+      "title": "Endometrial Pathology",
+      "content": "**ENDOMETRIAL HYPERPLASIA**\n\n**Cause:** Unopposed estrogen\n- Obesity (peripheral aromatization)\n- PCOS\n- Estrogen-producing tumors (granulosa cell)\n- Estrogen replacement without progestin\n\n**Types:**\n- Simple hyperplasia: Dilated glands\n- Complex hyperplasia: Crowded, back-to-back glands\n- Atypical hyperplasia: Nuclear atypia (25-30% progress to cancer)\n\n**ENDOMETRIAL CARCINOMA**\n\n**TYPE I (80%) - Estrogen-related:**\n- Endometrioid adenocarcinoma\n- Preceded by hyperplasia\n- Younger, obese patients\n- Better prognosis\n- PTEN, PIK3CA, KRAS mutations\n\n**TYPE II (20%) - Non-estrogen-related:**\n- Serous carcinoma (p53 mutation)\n- Clear cell carcinoma\n- Older patients, atrophic endometrium\n- Aggressive, poor prognosis\n- No precursor lesion\n\n**PRESENTATION:** Postmenopausal bleeding\n\n**DIAGNOSIS:** Endometrial biopsy\n\n**STAGING:** Surgical (FIGO) - based on depth of myometrial invasion"
+    },
+    {
+      "id": "NOTE_REPRO_003",
+      "system": "Reproductive",
+      "title": "Ovarian Tumors Classification",
+      "content": "**SURFACE EPITHELIAL TUMORS (65-70%)**\n\n**Serous:**\n- Most common overall\n- Bilateral in 20-30%\n- Psammoma bodies\n- CA-125 marker\n\n**Mucinous:**\n- Large, multiloculated\n- Bilateral in 5%\n- Pseudomyxoma peritonei if ruptured\n\n**Endometrioid:**\n- Associated with endometriosis\n- 15-20% concurrent endometrial cancer\n\n**GERM CELL TUMORS (15-20%)**\n\n**Mature teratoma (dermoid):**\n- Most common benign ovarian tumor\n- Hair, teeth, sebum\n- 1-2% malignant transformation\n\n**Dysgerminoma:**\n- Most common malignant GCT\n- Equivalent to seminoma\n- Radiosensitive, good prognosis\n\n**Yolk sac tumor:**\n- AFP elevation\n- Schiller-Duval bodies\n\n**SEX CORD-STROMAL TUMORS (5-10%)**\n\n**Granulosa cell:**\n- Estrogen production\n- Call-Exner bodies\n- Inhibin marker\n\n**Sertoli-Leydig:**\n- Androgen production\n- Virilization\n\n**Fibroma:**\n- Meigs syndrome (ascites + pleural effusion)"
+    },
+    {
+      "id": "NOTE_REPRO_004",
+      "system": "Reproductive",
+      "title": "Prostatic Pathology",
+      "content": "**BENIGN PROSTATIC HYPERPLASIA (BPH)**\n\n**Location:** Transition zone (periurethral)\n**Age:** >50 years (very common)\n**Pathogenesis:** DHT-mediated (5-alpha reductase converts testosterone to DHT)\n**Histology:** Nodular hyperplasia of glands and stroma, basal cell layer present\n**Symptoms:** Urinary frequency, urgency, nocturia, weak stream\n**Treatment:** Alpha-blockers, 5-alpha reductase inhibitors, TURP\n\n**PROSTATIC ADENOCARCINOMA**\n\n**Location:** Peripheral zone (70%)\n**Age:** >65 years\n**Risk factors:** Age, race (African American), family history\n\n**Histology:**\n- Infiltrative small glands\n- Loss of basal cell layer (p63/CK5/6 negative)\n- Nuclear atypia\n- Perineural invasion common\n\n**Gleason Grading (1-5):**\n- Pattern 1-2: Well-formed glands (rare)\n- Pattern 3: Separate well-formed glands\n- Pattern 4: Fused/cribriform glands\n- Pattern 5: Sheets, single cells, necrosis\n- Score = Primary + Secondary pattern (e.g., 3+4=7)\n\n**Markers:**\n- PSA: Screening and monitoring\n- PSAP: Prostatic acid phosphatase\n\n**Spread:** Bone (osteoblastic metastases)\n\n**Treatment:** Surgery, radiation, androgen deprivation"
+    },
+    {
+      "id": "NOTE_REPRO_005",
+      "system": "Reproductive",
+      "title": "Vaginal Pathology",
+      "content": "**VAGINAL INTRAEPITHELIAL NEOPLASIA (VAIN)**\n- Similar to CIN, HPV-related\n- Less common than cervical lesions\n- Can progress to squamous cell carcinoma\n\n**SQUAMOUS CELL CARCINOMA**\n- Most common vaginal malignancy (80-90%)\n- Upper 1/3 of vagina most common\n- HPV-related in younger women\n- Risk factors: HPV, smoking, prior cervical cancer\n\n**CLEAR CELL ADENOCARCINOMA**\n- Associated with in utero DES exposure\n- Occurs in young women (15-30 years)\n- Arises from vaginal adenosis\n- Clear cells or hobnail cells\n- Rare now (DES discontinued in 1970s)\n\n**EMBRYONAL RHABDOMYOSARCOMA (Sarcoma botryoides)**\n- Malignant tumor in children (<5 years)\n- Grape-like polypoid masses\n- Rhabdomyoblasts (skeletal muscle differentiation)\n- Desmin and myogenin positive\n\n**VAGINAL ADENOSIS**\n- Glandular epithelium in vagina (normally squamous)\n- Associated with DES exposure\n- Precursor to clear cell adenocarcinoma\n- Usually asymptomatic\n\n**CONDYLOMA ACUMINATUM**\n- HPV 6 and 11\n- Benign warty lesions\n- Koilocytes present"
+    }
+  ]
+}
